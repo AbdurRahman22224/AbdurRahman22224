@@ -5,8 +5,9 @@
 
 <!-- Intro -->
 ###  Hey, I’m Abdur Rahman  
-- 🔭 I’m currently working on **[Project Name]([https://github.com/YourUsername/ProjectRepo](https://github.com/AbdurRahman22224/swiggy-del-time-predn ))**  
-- 🌱 I’m learning **MLOps using AWS**  
+- 🔭 I’m currently working on **[MLOps Project]([https://github.com/YourUsername/ProjectRepo](https://github.com/AbdurRahman22224/swiggy-del-time-predn ))**  
+- 🌱 I’m learning **MLOps using AWS**
+- 📄 My Resume **[Link]**(https://drive.google.com/file/d/1nU3OyKDswkuRUlH2bS6nsN6me48hRiUB/view?usp=drive_link)
 
 <!-- Social Icons -->
 <p align="left">
@@ -30,26 +31,24 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://dvc.org/img/logo.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" width="60" height="40"/>
+  <img src="https://dvc.org/img/logo.svg" width="50" height="60"/>
+  <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" width="60" height="50"/>
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
 </p>
 
 
-
 <!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRahman22224&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurRahman22224&layout=compact&theme=github_dark)
 
 <!-- GitHub Stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdurRahman22224&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdurRahman22224&show_icons=true&count_private=true&theme=github_dark)
 
 <!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=AbdurRahman22224&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=AbdurRahman22224&theme=github-dark)
+
 
