@@ -61,9 +61,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahman22224&layout=compact&size_weight=0.3&count_weight=0.9&theme=aura&bg_color=DEG,7062f0,59355d)
 
 <!-- GitHub Stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdurRahman22224&show_icons=true&count_private=true&theme=aura)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdurRahman22224&show_icons=true&count_private=true&theme=aura&bg_color=DEG,30496b,476892)
 
 <!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=AbdurRahman22224&theme=aura)
+![GitHub Streak](https://streak-stats.demolab.com?user=AbdurRahman22224&theme=aurabg_color=DEG,476891,59355d)
 
 
