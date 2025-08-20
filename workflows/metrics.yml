@@ -1,10 +1,8 @@
 name: Metrics
 on:
-  # Runs every 12 hours
   schedule: 
-    - cron: "0 */12 * * *"
-  # Allows running the workflow manually
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch:       # Allows manual trigger
 
 jobs:
   github-metrics:
@@ -12,8 +10,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.isocalendar.svg
           base: ""
           plugin_isocalendar: yes
-
